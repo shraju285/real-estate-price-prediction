@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+venv310/
+
+# Pyenv
+.python-version
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Environment/secrets
+.env
+.env.*
+
+# Nginx/server files
+*.pid
