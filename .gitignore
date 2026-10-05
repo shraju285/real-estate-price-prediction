@@ -26,3 +26,4 @@ venv310/
 
 # Nginx/server files
 *.pid
+.venv/
